@@ -31,7 +31,7 @@ The team created a new dataset of **236 U.S. Supreme Court case pairs** from 178
 - **Length Distribution**: Cases range from 705 to 116,455 words, with a median of 17,607 words and mean of 19,368 words
 
 <div style="text-align: center;">
-  <img src="overruling_cases_word_count_distribution.png" alt="Word Count Distribution of 236 Overruling Cases" width="700" height="auto">
+  <img src="word_count_distribution.png" alt="Word Count Distribution of 236 Overruling Cases" width="700" height="auto">
   <br><br>
   <strong>Figure 1: Word Count Distribution of 236 Overruling Cases</strong>
   <br>
