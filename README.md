@@ -7,7 +7,7 @@
 
 This is the official repository for our paper, **Do LLMs Truly "Understand" When a Precedent Is Overruled?** by Li Zhang, Jaromir Savelka, and Kevin Ashley (University of Pittsburgh & Carnegie Mellon University | JURIX 2025). This research investigates whether Large Language Models (LLMs) can genuinely understand complex legal reasoning tasks, specifically the identification of overruling relationships in U.S. Supreme Court cases.
 
-This repository contains the dataset of 236 U.S. Supreme Court case pairs and provides code to reproduce the experimental results discussed in our paper.
+This repository contains the dataset of 236 U.S. Supreme Court cases to reproduce the experimental results discussed in our paper.
 
 ### About the Research
 
