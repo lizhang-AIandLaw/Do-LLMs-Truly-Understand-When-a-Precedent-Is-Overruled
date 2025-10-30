@@ -125,12 +125,11 @@ unzip JURIX2025_paper.zip
 If you use this dataset or reference this work, please cite it as follows:
 
 ```bibtex
-@inproceedings{zhang-etal-2025-llm-overruling,
-    title = "Do LLMs Truly ``Understand'' When a Precedent Is Overruled?",
-    author = "Zhang, Li and Savelka, Jaromir and Ashley, Kevin",
-    booktitle = "JURIX 2025",
-    year = "2025",
-    publisher = "IOS Press"
+@article{zhang2025llms,
+  title={Do LLMs Truly Understand When a Precedent Is Overruled?},
+  author={Zhang, Li and Savelka, Jaromir and Ashley, Kevin},
+  journal={arXiv preprint arXiv:2510.20941},
+  year={2025}
 }
 ```
 
